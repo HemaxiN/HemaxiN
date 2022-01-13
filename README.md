@@ -1,6 +1,6 @@
 ### Hey there!! 👋
 
-- 🔭 I’m currently a PhD Student
+- 🔭 I’m a PhD Student in Biomedical Engineering
 - 📫 How to reach me: hemaxi.narotamo@tecnico.ulisboa.pt 
 
 <!--
