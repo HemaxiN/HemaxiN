@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there!! 👋
+
+- 🔭 I’m currently a PhD Student
+- 📫 How to reach me: hemaxi.narotamo@tecnico.ulisboa.pt 
 
 <!--
 **HemaxiN/HemaxiN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
