@@ -1,6 +1,7 @@
 ### Hey there!! 👋
 
-![](https://github.com/HemaxiN/HemaxiN/blob/main/dlmi.gif)
+
+<img src="https://github.com/HemaxiN/HemaxiN/blob/main/dlmi.gif" width="250" height="250"/>
 
 - 🔭 I’m a PhD Student in Biomedical Engineering
 - 📫 How to reach me: hemaxi.narotamo@tecnico.ulisboa.pt 
