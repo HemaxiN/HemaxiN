@@ -1,7 +1,7 @@
-<p align="center">
+
 ### Hey there!! 👋
 
-
+<p align="center">
 <img src="https://github.com/HemaxiN/HemaxiN/blob/main/dlmi.gif" width="450" height="250"/>
 
 
