@@ -1,5 +1,5 @@
 
-### Hey there!! <img src="https://github.com/HemaxiN/HemaxiN/blob/main/heyo.gif" width="50" height="50"/>
+### Hey there!! <img src="https://github.com/HemaxiN/HemaxiN/blob/main/heyo.gif" width="20" height="20"/>
 
 <p align="center">
 <img src="https://github.com/HemaxiN/HemaxiN/blob/main/dlmi.gif" width="450" height="250"/>
