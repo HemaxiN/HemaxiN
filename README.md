@@ -1,5 +1,5 @@
-<p align="center">
-# Hey there!! <img src="https://github.com/HemaxiN/HemaxiN/blob/main/heyo.gif" width="50" height="50"/>
+<p align="center" style="color:blue" style="font-size:30px">
+Hey there!! <img src="https://github.com/HemaxiN/HemaxiN/blob/main/heyo.gif" width="50" height="50"/>
 </p>
 
 <p align="center">
