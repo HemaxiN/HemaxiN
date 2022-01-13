@@ -1,12 +1,15 @@
+<p align="center">
 ### Hey there!! 👋
 
-<p align="center">
+
 <img src="https://github.com/HemaxiN/HemaxiN/blob/main/dlmi.gif" width="450" height="250"/>
-</p>
+
 
 - 🔭 I’m a PhD Student in Biomedical Engineering
 - 📫 How to reach me: hemaxi.narotamo@tecnico.ulisboa.pt 
 
+</p>  
+  
 <!--
 **HemaxiN/HemaxiN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
