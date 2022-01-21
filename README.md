@@ -7,7 +7,7 @@
 <img src="https://github.com/HemaxiN/HemaxiN/blob/main/dlmi.gif" width="610" height="250"/>
 
 
-- 🔭 I’m a PhD Student in Biomedical Engineering
+- 🔭 PhD Student in Biomedical Engineering
 - 📫 How to reach me: hemaxi.narotamo@tecnico.ulisboa.pt 
 
 </p>  
