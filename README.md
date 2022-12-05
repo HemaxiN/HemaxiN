@@ -8,7 +8,7 @@
 
 
 - 🔭 I am a PhD Student in Biomedical Engineering. My work is focused on the development of deep learning based approaches for the analysis of 3D fluorescence microscopy images of mouse retinas. I’m highly motivated to enrich my knowledge in the field of machine learning, computer vision and medical image processing.
-- 📫 How to reach me: hemaxi.narotamo@tecnico.ulisboa.pt 
+- 📫 How to reach me: hemaxi.narotamo[AT]tecnico.ulisboa.pt 
 
 </p>  
   
