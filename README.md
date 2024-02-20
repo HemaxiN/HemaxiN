@@ -7,7 +7,7 @@
 <img src="https://github.com/HemaxiN/HemaxiN/blob/main/dlmi.gif" width="610" height="250"/>
 
 
-- 🔭 I am a PhD Student in Biomedical Engineering. My work is focused in the development of deep learning based approaches for the analysis of 3D fluorescence microscopy images of mouse retinas. I’m highly motivated to enrich my knowledge in the field of machine learning, computer vision and medical image processing.
+- 🔭 I am a PhD Student in Biomedical Engineering. My work is focused on the development of deep learning-based approaches for the analysis of 3D fluorescence microscopy images of mouse retinas. I am highly motivated to enrich my knowledge in the fields of machine learning, computer vision, and medical image processing.
 - 📫 How to reach me: hemaxi.narotamo[AT]tecnico.ulisboa.pt 
 
 </p>  
