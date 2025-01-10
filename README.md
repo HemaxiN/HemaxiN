@@ -11,7 +11,21 @@
 - 📫 How to reach me: hemaxi.narotamo[AT]tecnico[DOT]ulisboa[DOT]pt 
 
 </p>  
-  
+
+## My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HemaxiN&show_icons=true&theme=dark)
+
+## My Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HemaxiN&layout=compact&theme=dark)
+
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=HemaxiN&theme=dark)
+
+
+
 <!--
 **HemaxiN/HemaxiN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
