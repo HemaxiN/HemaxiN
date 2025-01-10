@@ -20,9 +20,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HemaxiN&layout=compact&theme=dark)
 
-## GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=HemaxiN&theme=dark)
 
 
 
